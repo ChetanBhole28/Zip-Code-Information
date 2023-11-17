@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zip-Code-Information/static/css/main.c7c545b8.css",
+    "main.js": "/Zip-Code-Information/static/js/main.884b142a.js",
+    "static/js/787.f1b2c29f.chunk.js": "/Zip-Code-Information/static/js/787.f1b2c29f.chunk.js",
+    "index.html": "/Zip-Code-Information/index.html",
+    "main.c7c545b8.css.map": "/Zip-Code-Information/static/css/main.c7c545b8.css.map",
+    "main.884b142a.js.map": "/Zip-Code-Information/static/js/main.884b142a.js.map",
+    "787.f1b2c29f.chunk.js.map": "/Zip-Code-Information/static/js/787.f1b2c29f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c545b8.css",
+    "static/js/main.884b142a.js"
+  ]
+}
